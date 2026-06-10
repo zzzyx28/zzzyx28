@@ -1,22 +1,32 @@
-# Hi 👋, I'm Zhengyx
+<div align="center">
 
-### 软件工程学生
+# 郑宇煊 · Zhengyx
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzzyx28&label=Profile views&color=0e75b6&style=flat" alt="zzzyx28" /> </p>
+后端 / Agent 开发 · 北京交通大学软件工程（本硕）· 26届
 
-- 🔭 I'm currently working on **轨道交通知识服务平台**
+[![Email](https://img.shields.io/badge/Mail-1291870371@qq.com-blue?style=flat-square)](mailto:1291870371@qq.com)
+![Profile Views](https://komarev.com/ghpvc/?username=zzzyx28&label=Views&color=0e75b6&style=flat-square)
 
-- 🌱 I'm currently learning **Springai Alibaba、微服务**
+</div>
 
-- 📫 How to reach me **1291870371@qq.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://github.com/zzzyx28](https://github.com/zzzyx28)**
+- 🔭 正在做：**轨道交通知识图谱管理与服务平台**（Agent 方向）
+- 🌱 正在学：**Spring AI Alibaba · 微服务**
+- 💼 实习：航天科工二院 706 所 → 中车信息技术（Agent 开发）
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/zzzyx28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zzzyx28" height="30" width="40" /></a>
+---
+
+## 🛠️ 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,spring,mysql,mongodb,redis,vue,docker,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+`RAG` `Function Calling` `Dify` `MCP` `ReAct Agent` `Neo4j` `FastAPI`
 
+---
+
+<div align="center">
+  <a href="https://github.com/zzzyx28">github.com/zzzyx28</a>
+</div>
